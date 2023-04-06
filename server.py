@@ -7,7 +7,7 @@ api = Api(app)
 
 class Greeting (Resource):
     def get(self):
-        return "Pyro Userbot is Up & Running!"
+        return "PyroUserbot is Up & Running!"
 
 api.add_resource(Greeting, '/')
 app.run(host="0.0.0.0", port=os.environ.get("PORT", 8080))
