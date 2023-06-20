@@ -1,3 +1,10 @@
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+PyroUserBot;Explore+the+world+of+code;Sharing+exciting+projects+and+scripts;Enjoy+your+stay!&width=500&height=180">
+</p>
+
+
+
 [![GitHub Card](https://github-readme-stats.vercel.app/api?username=PyroUserBot&show_icons=true&theme=dark)](https://github.com/PyroUserBot)
 
 
