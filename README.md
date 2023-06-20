@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**PyroUserBot/PyroUserBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner developer passionate about learning and exploring the world of coding.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently studying [Computer Science](https://www.example.com) at DY Patil University Pune.
+- 💻 I'm interested in web development, data science, and open source projects.
+- 🌟 I'm eager to collaborate on beginner-friendly projects and expand my knowledge.
+
+## 🔭 Current Projects soon... 
+
+- 🚀 [Project A](https://github.com/your-project-a): Brief description of Project A.
+- 🌟 [Project B](https://github.com/your-project-b): Brief description of Project B.
+
+## 📫 How to Reach Me
+
+- ✉️ Email: kunalgaikwad9322@gmail.com
+- 💼 Telegram: [Nano](SexyNano.t.me)
+
+## 🌐 Find Me Online Soon.. 
+
+- 🌎 Personal Website: [https://your-website.com](https://your-website.com)
+- 📝 Blog: [https://your-blog.com](https://your-blog.com)
+
+## 🙏 Acknowledgements
+
+- 🎉 Thank you to the open source community for providing amazing resources and inspiration.
+
