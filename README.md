@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 
 ## 🌱 About Me
 
-- 🎓 I'm currently studying [Computer Science](https://www.example.com) at DY Patil University Pune.
+- 🎓 I'm currently studying [Computer Science](https://www.bcs.com) at DY Patil University Pune.
 - 💻 I'm interested in web development, data science, and open source projects.
 - 🌟 I'm eager to collaborate on beginner-friendly projects and expand my knowledge.
 
